@@ -1,0 +1,3 @@
+v 3
+d Native FLEX package
+p fastflex Native implementation; see VALIDATION.md for tested scope
